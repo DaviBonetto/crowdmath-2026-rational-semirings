@@ -1,0 +1,119 @@
+{
+  "object": "N0[q,r]",
+  "parameters": {
+    "q": "2/3",
+    "r": "3/5",
+    "max_degree_q": 3,
+    "max_degree_r": 3,
+    "max_coeff": 2
+  },
+  "summary": {
+    "total_distinct_elements": 30117,
+    "total_representations": 43046721,
+    "collisions": 29415,
+    "max_representations_for_one_element": 4485
+  },
+  "warning": "This is a bounded computational sample and does not prove any infinite mathematical property.",
+  "sample_elements": [
+    {
+      "element": "0",
+      "num_representations": 1,
+      "sample_representation": "()"
+    },
+    {
+      "element": "1",
+      "num_representations": 33,
+      "sample_representation": "((0,3,1), (1,3,1), (2,2,2), (2,3,2), (3,3,2))"
+    },
+    {
+      "element": "2",
+      "num_representations": 420,
+      "sample_representation": "((1,3,1), (2,0,1), (2,1,1), (2,2,2), (2,3,2), (3,1,2), (3,2,2), (3,3,1))"
+    },
+    {
+      "element": "2/3",
+      "num_representations": 14,
+      "sample_representation": "((1,3,1), (2,2,1), (2,3,2), (3,2,1), (3,3,1))"
+    },
+    {
+      "element": "2/5",
+      "num_representations": 5,
+      "sample_representation": "((1,3,1), (2,3,2), (3,3,1))"
+    },
+    {
+      "element": "3",
+      "num_representations": 1670,
+      "sample_representation": "((0,3,1), (1,2,2), (1,3,2), (2,0,1), (2,1,2), (2,2,2), (2,3,2), (3,1,2), (3,2,1), (3,3,1))"
+    },
+    {
+      "element": "3/5",
+      "num_representations": 7,
+      "sample_representation": "((0,3,1), (2,2,1), (2,3,1), (3,3,2))"
+    },
+    {
+      "element": "4",
+      "num_representations": 3516,
+      "sample_representation": "((1,0,1), (1,1,1), (1,2,2), (2,0,2), (2,1,2), (2,2,2), (2,3,2), (3,1,1), (3,2,2), (3,3,2))"
+    },
+    {
+      "element": "4/3",
+      "num_representations": 97,
+      "sample_representation": "((2,0,1), (2,3,2), (3,1,2), (3,2,2), (3,3,2))"
+    },
+    {
+      "element": "4/5",
+      "num_representations": 22,
+      "sample_representation": "((2,1,1), (2,3,2), (3,2,2), (3,3,2))"
+    },
+    {
+      "element": "4/9",
+      "num_representations": 4,
+      "sample_representation": "((2,3,1), (3,1,1), (3,2,1), (3,3,1))"
+    },
+    {
+      "element": "4/15",
+      "num_representations": 3,
+      "sample_representation": "((2,3,1), (3,2,1), (3,3,1))"
+    },
+    {
+      "element": "4/25",
+      "num_representations": 2,
+      "sample_representation": "((2,3,1), (3,3,1))"
+    },
+    {
+      "element": "5",
+      "num_representations": 4272,
+      "sample_representation": "((0,3,1), (1,0,2), (1,1,1), (1,2,2), (1,3,2), (2,0,2), (2,1,2), (2,2,2), (2,3,2), (3,1,1), (3,2,1), (3,3,1))"
+    },
+    {
+      "element": "5/3",
+      "num_representations": 211,
+      "sample_representation": "((0,3,1), (2,0,1), (2,2,2), (2,3,1), (3,1,2), (3,2,1), (3,3,2))"
+    },
+    {
+      "element": "6",
+      "num_representations": 3341,
+      "sample_representation": "((0,2,2), (0,3,2), (1,0,2), (1,1,1), (1,2,2), (1,3,2), (2,0,2), (2,1,2), (2,2,2), (2,3,2), (3,1,1), (3,2,1), (3,3,2))"
+    },
+    {
+      "element": "6/5",
+      "num_representations": 71,
+      "sample_representation": "((1,3,1), (2,1,1), (2,2,2), (2,3,2), (3,2,2), (3,3,1))"
+    },
+    {
+      "element": "6/25",
+      "num_representations": 2,
+      "sample_representation": "((1,3,1), (2,3,1))"
+    },
+    {
+      "element": "7",
+      "num_representations": 1474,
+      "sample_representation": "((0,1,1), (0,2,2), (0,3,2), (1,0,2), (1,1,2), (1,2,2), (1,3,2), (2,0,2), (2,1,2), (2,2,2), (2,3,2), (3,1,1), (3,2,1), (3,3,2))"
+    },
+    {
+      "element": "7/3",
+      "num_representations": 720,
+      "sample_representation": "((0,3,1), (1,3,1), (2,0,1), (2,1,2), (2,2,2), (2,3,2), (3,1,2), (3,3,2))"
+    }
+  ]
+}

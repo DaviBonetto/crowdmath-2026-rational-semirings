@@ -1,0 +1,249 @@
+{
+  "object": "N0[q]^bullet",
+  "q": "1/2",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "max_abs_unit_exponent": 5,
+    "max_targets_per_q": 8
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.",
+  "sample_summary": {
+    "nonzero_sample_elements": 189,
+    "sample_units_used": 8,
+    "candidate_multiplicative_atoms": 92
+  },
+  "targets": [
+    {
+      "target": "9/2",
+      "candidate_atomic_divisors": [
+        "3",
+        "3/2"
+      ],
+      "quotient_witnesses": {
+        "3": "3/2",
+        "3/2": "3"
+      },
+      "associate_classes": [
+        [
+          "3/2",
+          "3"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 1
+    },
+    {
+      "target": "9/4",
+      "candidate_atomic_divisors": [
+        "3",
+        "3/2",
+        "3/4"
+      ],
+      "quotient_witnesses": {
+        "3": "3/4",
+        "3/2": "3/2",
+        "3/4": "3"
+      },
+      "associate_classes": [
+        [
+          "3/4",
+          "3/2",
+          "3"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 3,
+      "associate_class_count": 1
+    },
+    {
+      "target": "9/8",
+      "candidate_atomic_divisors": [
+        "3",
+        "3/2",
+        "3/4",
+        "3/8"
+      ],
+      "quotient_witnesses": {
+        "3": "3/8",
+        "3/2": "3/4",
+        "3/4": "3/2",
+        "3/8": "3"
+      },
+      "associate_classes": [
+        [
+          "3/8",
+          "3/4",
+          "3/2",
+          "3"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 4,
+      "associate_class_count": 1
+    },
+    {
+      "target": "9/16",
+      "candidate_atomic_divisors": [
+        "3",
+        "3/2",
+        "3/4",
+        "3/8",
+        "3/16"
+      ],
+      "quotient_witnesses": {
+        "3": "3/16",
+        "3/2": "3/8",
+        "3/4": "3/4",
+        "3/8": "3/2",
+        "3/16": "3"
+      },
+      "associate_classes": [
+        [
+          "3/16",
+          "3/8",
+          "3/4",
+          "3/2",
+          "3"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 5,
+      "associate_class_count": 1
+    },
+    {
+      "target": "9/32",
+      "candidate_atomic_divisors": [
+        "3",
+        "3/2",
+        "3/4",
+        "3/8",
+        "3/16",
+        "3/32"
+      ],
+      "quotient_witnesses": {
+        "3": "3/32",
+        "3/2": "3/16",
+        "3/4": "3/8",
+        "3/8": "3/4",
+        "3/16": "3/2",
+        "3/32": "3"
+      },
+      "associate_classes": [
+        [
+          "3/32",
+          "3/16",
+          "3/8",
+          "3/4",
+          "3/2",
+          "3"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 6,
+      "associate_class_count": 1
+    },
+    {
+      "target": "21/16",
+      "candidate_atomic_divisors": [
+        "3",
+        "3/2",
+        "3/4",
+        "3/8",
+        "7/2",
+        "7/4",
+        "7/8",
+        "7/16"
+      ],
+      "quotient_witnesses": {
+        "3": "7/16",
+        "3/2": "7/8",
+        "3/4": "7/4",
+        "3/8": "7/2",
+        "7/2": "3/8",
+        "7/4": "3/4",
+        "7/8": "3/2",
+        "7/16": "3"
+      },
+      "associate_classes": [
+        [
+          "3/8",
+          "3/4",
+          "3/2",
+          "3"
+        ],
+        [
+          "7/16",
+          "7/8",
+          "7/4",
+          "7/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 8,
+      "associate_class_count": 2
+    },
+    {
+      "target": "21/32",
+      "candidate_atomic_divisors": [
+        "3",
+        "3/2",
+        "3/4",
+        "3/8",
+        "3/16",
+        "7/2",
+        "7/4",
+        "7/8",
+        "7/16",
+        "7/32"
+      ],
+      "quotient_witnesses": {
+        "3": "7/32",
+        "3/2": "7/16",
+        "3/4": "7/8",
+        "3/8": "7/4",
+        "3/16": "7/2",
+        "7/2": "3/16",
+        "7/4": "3/8",
+        "7/8": "3/4",
+        "7/16": "3/2",
+        "7/32": "3"
+      },
+      "associate_classes": [
+        [
+          "3/16",
+          "3/8",
+          "3/4",
+          "3/2",
+          "3"
+        ],
+        [
+          "7/32",
+          "7/16",
+          "7/8",
+          "7/4",
+          "7/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 10,
+      "associate_class_count": 2
+    },
+    {
+      "target": "23/4",
+      "candidate_atomic_divisors": [
+        "23/4",
+        "23/8",
+        "23/16"
+      ],
+      "quotient_witnesses": {
+        "23/4": "1",
+        "23/8": "2",
+        "23/16": "4"
+      },
+      "associate_classes": [
+        [
+          "23/16",
+          "23/8",
+          "23/4"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 3,
+      "associate_class_count": 1
+    }
+  ]
+}

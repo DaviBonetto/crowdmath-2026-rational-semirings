@@ -1,0 +1,26 @@
+{
+  "object": "N0[q]^bullet",
+  "q": "3/2",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "max_abs_unit_exponent": 5
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove the full unit group or any infinite mathematical property.",
+  "summary": {
+    "total_nonzero_sample_elements": 1393,
+    "sample_unit_count": 1,
+    "theoretical_unit_count_within_bound": 1,
+    "true_positive_count": 1,
+    "false_positive_count": 0,
+    "missed_theoretical_unit_count": 0
+  },
+  "sample_units": [
+    "1"
+  ],
+  "theoretical_units_within_bound": [
+    "1"
+  ],
+  "false_positives": [],
+  "missed_theoretical_units": []
+}

@@ -1,0 +1,9 @@
+q,target,raw_candidate_atomic_divisor_count,associate_class_count,raw_vs_associate_gap,largest_associate_class_size,visible_idf_check_passed,interpretation
+2/3,665/243,4,4,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide
+2/3,4/9,1,1,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide
+2/3,2,2,2,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide
+2/3,10/9,2,2,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide
+2/3,14/9,2,2,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide
+2/3,22/9,2,2,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide
+2/3,5,2,2,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide
+2/3,25/9,1,1,0,1,yes,only unit 1 expected; raw divisors and associate classes usually coincide

@@ -1,0 +1,95 @@
+{
+  "object": "N0[q]^bullet",
+  "q": "4/9",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "max_abs_unit_exponent": 5,
+    "max_targets_per_q": 8
+  },
+  "bounded_warning": "This is a bounded IDF sanity check. It does not prove IDF, non-IDF, or the complete atomic divisor structure of the infinite monoid.",
+  "case_summary": {
+    "nonzero_sample_elements": 4095,
+    "sample_units_used": 1,
+    "candidate_multiplicative_atoms": 2736,
+    "targets_tested": 8,
+    "max_raw_divisor_count": 4,
+    "max_associate_class_count": 4,
+    "max_raw_vs_associate_gap": 0,
+    "visible_idf_checks_all_finite": true
+  },
+  "targets": [
+    {
+      "target": "105469/59049",
+      "raw_candidate_atomic_divisor_count": 4,
+      "associate_class_count": 4,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    },
+    {
+      "target": "8/9",
+      "raw_candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    },
+    {
+      "target": "4/3",
+      "raw_candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    },
+    {
+      "target": "16/81",
+      "raw_candidate_atomic_divisor_count": 1,
+      "associate_class_count": 1,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    },
+    {
+      "target": "28/27",
+      "raw_candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    },
+    {
+      "target": "40/27",
+      "raw_candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    },
+    {
+      "target": "22387/6561",
+      "raw_candidate_atomic_divisor_count": 1,
+      "associate_class_count": 1,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    },
+    {
+      "target": "22408/19683",
+      "raw_candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2,
+      "raw_vs_associate_gap": 0,
+      "largest_associate_class_size": 1,
+      "visible_idf_check_passed": true,
+      "interpretation": "only unit 1 expected; raw divisors and associate classes usually coincide"
+    }
+  ]
+}

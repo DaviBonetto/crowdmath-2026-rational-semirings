@@ -1,0 +1,182 @@
+{
+  "experiment": "exp_004_bounded_factorization_search",
+  "bounded_warning": "This is a bounded computational sample. It does not prove atomicity, unique factorization, IDF behavior, or any infinite mathematical property.",
+  "parameters": {
+    "max_atom_degree": 5,
+    "max_factorization_length": 12,
+    "max_solutions": 50
+  },
+  "additive_cases": [
+    {
+      "q": "2",
+      "target": "6",
+      "theoretical_case": "integer",
+      "atoms_within_degree_bound": [
+        "1"
+      ],
+      "num_factorizations_found": 1,
+      "length_set": [
+        6
+      ],
+      "sample_factorizations": [
+        "1 + 1 + 1 + 1 + 1 + 1"
+      ],
+      "interpretation": "q=2: N0[q]=N0. Expected one factorization using atom 1. Found 1 factorization(s). Consistent with UFM behavior of N0."
+    },
+    {
+      "q": "1/2",
+      "target": null,
+      "theoretical_case": "reciprocal_integer",
+      "atoms_within_degree_bound": [],
+      "num_factorizations_found": 0,
+      "length_set": [],
+      "sample_factorizations": [],
+      "interpretation": "q=1/2: N0[q] has no atoms by Exercise 1.8. Additive factorization search is not meaningful. Skipped."
+    },
+    {
+      "q": "3/2",
+      "target": "3",
+      "theoretical_case": "mixed_fraction",
+      "atoms_within_degree_bound": [
+        "1",
+        "3/2",
+        "9/4",
+        "27/8",
+        "81/16",
+        "243/32"
+      ],
+      "num_factorizations_found": 2,
+      "length_set": [
+        2,
+        3
+      ],
+      "sample_factorizations": [
+        "1 + 1 + 1",
+        "3/2 + 3/2"
+      ],
+      "interpretation": "q=3/2: additive identity a=bq gives 3=2*(3/2). Found 2 bounded factorization(s) with length set [2, 3]. Multiple lengths are consistent with non-unique additive factorization (Exercise 1.7). This is a bounded witness, not a proof."
+    },
+    {
+      "q": "2/3",
+      "target": "2",
+      "theoretical_case": "mixed_fraction",
+      "atoms_within_degree_bound": [
+        "1",
+        "2/3",
+        "4/9",
+        "8/27",
+        "16/81",
+        "32/243"
+      ],
+      "num_factorizations_found": 6,
+      "length_set": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sample_factorizations": [
+        "32/243 + 32/243 + 32/243 + 16/81 + 8/27 + 4/9 + 2/3",
+        "16/81 + 16/81 + 16/81 + 8/27 + 4/9 + 2/3",
+        "8/27 + 8/27 + 8/27 + 4/9 + 2/3",
+        "4/9 + 4/9 + 4/9 + 2/3",
+        "2/3 + 2/3 + 2/3"
+      ],
+      "interpretation": "q=2/3: additive identity a=bq gives 2=3*(2/3). Found 6 bounded factorization(s) with length set [2, 3, 4, 5, 6, 7]. Multiple lengths are consistent with non-unique additive factorization (Exercise 1.7). This is a bounded witness, not a proof."
+    },
+    {
+      "q": "4/9",
+      "target": "4",
+      "theoretical_case": "mixed_fraction",
+      "atoms_within_degree_bound": [
+        "1",
+        "4/9",
+        "16/81",
+        "64/729",
+        "256/6561",
+        "1024/59049"
+      ],
+      "num_factorizations_found": 2,
+      "length_set": [
+        4,
+        9
+      ],
+      "sample_factorizations": [
+        "4/9 + 4/9 + 4/9 + 4/9 + 4/9 + 4/9 + 4/9 + 4/9 + 4/9",
+        "1 + 1 + 1 + 1"
+      ],
+      "interpretation": "q=4/9: additive identity a=bq gives 4=9*(4/9). Found 2 bounded factorization(s) with length set [4, 9]. Multiple lengths are consistent with non-unique additive factorization (Exercise 1.7). This is a bounded witness, not a proof."
+    },
+    {
+      "q": "5/3",
+      "target": "5",
+      "theoretical_case": "mixed_fraction",
+      "atoms_within_degree_bound": [
+        "1",
+        "5/3",
+        "25/9",
+        "125/27",
+        "625/81",
+        "3125/243"
+      ],
+      "num_factorizations_found": 2,
+      "length_set": [
+        3,
+        5
+      ],
+      "sample_factorizations": [
+        "1 + 1 + 1 + 1 + 1",
+        "5/3 + 5/3 + 5/3"
+      ],
+      "interpretation": "q=5/3: additive identity a=bq gives 5=3*(5/3). Found 2 bounded factorization(s) with length set [3, 5]. Multiple lengths are consistent with non-unique additive factorization (Exercise 1.7). This is a bounded witness, not a proof."
+    }
+  ],
+  "multiplicative_cases": [
+    {
+      "q": "3/2",
+      "left_factor_1": "19/4",
+      "left_factor_2": "35/8",
+      "right_factor_1": "133/16",
+      "right_factor_2": "5/2",
+      "left_value": "665/32",
+      "right_value": "665/32",
+      "identity_holds": true,
+      "interpretation": "q=3/2: the identity (1+q+q^2)(1+q^3) = (1+q^2+q^4)(1+q) holds: True. Both sides equal 665/32. This is the exact symbolic obstruction from Exercise 1.7 showing that (N0[q]\\{0}, *) is not a UFM when q=a/b with a,b>1. This computation is exact, not bounded."
+    },
+    {
+      "q": "2/3",
+      "left_factor_1": "19/9",
+      "left_factor_2": "35/27",
+      "right_factor_1": "133/81",
+      "right_factor_2": "5/3",
+      "left_value": "665/243",
+      "right_value": "665/243",
+      "identity_holds": true,
+      "interpretation": "q=2/3: the identity (1+q+q^2)(1+q^3) = (1+q^2+q^4)(1+q) holds: True. Both sides equal 665/243. This is the exact symbolic obstruction from Exercise 1.7 showing that (N0[q]\\{0}, *) is not a UFM when q=a/b with a,b>1. This computation is exact, not bounded."
+    },
+    {
+      "q": "4/9",
+      "left_factor_1": "133/81",
+      "left_factor_2": "793/729",
+      "right_factor_1": "8113/6561",
+      "right_factor_2": "13/9",
+      "left_value": "105469/59049",
+      "right_value": "105469/59049",
+      "identity_holds": true,
+      "interpretation": "q=4/9: the identity (1+q+q^2)(1+q^3) = (1+q^2+q^4)(1+q) holds: True. Both sides equal 105469/59049. This is the exact symbolic obstruction from Exercise 1.7 showing that (N0[q]\\{0}, *) is not a UFM when q=a/b with a,b>1. This computation is exact, not bounded."
+    },
+    {
+      "q": "5/3",
+      "left_factor_1": "49/9",
+      "left_factor_2": "152/27",
+      "right_factor_1": "931/81",
+      "right_factor_2": "8/3",
+      "left_value": "7448/243",
+      "right_value": "7448/243",
+      "identity_holds": true,
+      "interpretation": "q=5/3: the identity (1+q+q^2)(1+q^3) = (1+q^2+q^4)(1+q) holds: True. Both sides equal 7448/243. This is the exact symbolic obstruction from Exercise 1.7 showing that (N0[q]\\{0}, *) is not a UFM when q=a/b with a,b>1. This computation is exact, not bounded."
+    }
+  ]
+}

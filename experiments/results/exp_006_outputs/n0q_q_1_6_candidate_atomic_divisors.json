@@ -1,0 +1,227 @@
+{
+  "object": "N0[q]^bullet",
+  "q": "1/6",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "max_abs_unit_exponent": 5,
+    "max_targets_per_q": 8
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.",
+  "sample_summary": {
+    "nonzero_sample_elements": 4095,
+    "sample_units_used": 41,
+    "candidate_multiplicative_atoms": 2666
+  },
+  "targets": [
+    {
+      "target": "25/18",
+      "candidate_atomic_divisors": [
+        "5/2",
+        "5/9",
+        "5/12",
+        "10/3",
+        "75/32"
+      ],
+      "quotient_witnesses": {
+        "5/2": "5/9",
+        "5/9": "5/2",
+        "5/12": "10/3",
+        "10/3": "5/12",
+        "75/32": "16/27"
+      },
+      "associate_classes": [
+        [
+          "5/12",
+          "5/9",
+          "5/2",
+          "10/3"
+        ],
+        [
+          "75/32"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 5,
+      "associate_class_count": 2
+    },
+    {
+      "target": "25/24",
+      "candidate_atomic_divisors": [
+        "5/2",
+        "5/12",
+        "25/12",
+        "25/72"
+      ],
+      "quotient_witnesses": {
+        "5/2": "5/12",
+        "5/12": "5/2",
+        "25/12": "1/2",
+        "25/72": "3"
+      },
+      "associate_classes": [
+        [
+          "5/12",
+          "5/2"
+        ],
+        [
+          "25/72",
+          "25/12"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 4,
+      "associate_class_count": 2
+    },
+    {
+      "target": "25/16",
+      "candidate_atomic_divisors": [
+        "5/4"
+      ],
+      "quotient_witnesses": {
+        "5/4": "5/4"
+      },
+      "associate_classes": [
+        [
+          "5/4"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 1,
+      "associate_class_count": 1
+    },
+    {
+      "target": "25/96",
+      "candidate_atomic_divisors": [
+        "5/4",
+        "5/24"
+      ],
+      "quotient_witnesses": {
+        "5/4": "5/24",
+        "5/24": "5/4"
+      },
+      "associate_classes": [
+        [
+          "5/24",
+          "5/4"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 1
+    },
+    {
+      "target": "25/108",
+      "candidate_atomic_divisors": [
+        "5/2",
+        "5/9",
+        "5/12",
+        "5/54",
+        "5/72",
+        "10/3",
+        "75/32"
+      ],
+      "quotient_witnesses": {
+        "5/2": "5/54",
+        "5/9": "5/12",
+        "5/12": "5/9",
+        "5/54": "5/2",
+        "5/72": "10/3",
+        "10/3": "5/72",
+        "75/32": "8/81"
+      },
+      "associate_classes": [
+        [
+          "5/72",
+          "5/54",
+          "5/12",
+          "5/9",
+          "5/2",
+          "10/3"
+        ],
+        [
+          "75/32"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 7,
+      "associate_class_count": 2
+    },
+    {
+      "target": "25/144",
+      "candidate_atomic_divisors": [
+        "5/2",
+        "5/12",
+        "5/72",
+        "25/12",
+        "25/72",
+        "25/432"
+      ],
+      "quotient_witnesses": {
+        "5/2": "5/72",
+        "5/12": "5/12",
+        "5/72": "5/2",
+        "25/12": "1/12",
+        "25/72": "1/2",
+        "25/432": "3"
+      },
+      "associate_classes": [
+        [
+          "5/72",
+          "5/12",
+          "5/2"
+        ],
+        [
+          "25/432",
+          "25/72",
+          "25/12"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 6,
+      "associate_class_count": 2
+    },
+    {
+      "target": "731/324",
+      "candidate_atomic_divisors": [
+        "17/12",
+        "43/27"
+      ],
+      "quotient_witnesses": {
+        "17/12": "43/27",
+        "43/27": "17/12"
+      },
+      "associate_classes": [
+        [
+          "17/12"
+        ],
+        [
+          "43/27"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2
+    },
+    {
+      "target": "731/1944",
+      "candidate_atomic_divisors": [
+        "17/12",
+        "17/72",
+        "43/27",
+        "43/162"
+      ],
+      "quotient_witnesses": {
+        "17/12": "43/162",
+        "17/72": "43/27",
+        "43/27": "17/72",
+        "43/162": "17/12"
+      },
+      "associate_classes": [
+        [
+          "17/72",
+          "17/12"
+        ],
+        [
+          "43/162",
+          "43/27"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 4,
+      "associate_class_count": 2
+    }
+  ]
+}

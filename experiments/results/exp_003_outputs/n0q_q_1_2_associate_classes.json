@@ -1,0 +1,884 @@
+{
+  "object": "N0[q]^bullet",
+  "q": "1/2",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "max_abs_unit_exponent": 5
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove the complete associate-class structure of the infinite monoid.",
+  "units_used": [
+    "1",
+    "1/2",
+    "1/4",
+    "1/8",
+    "1/16",
+    "1/32",
+    "2",
+    "4"
+  ],
+  "summary": {
+    "total_nonzero_sample_elements": 189,
+    "sample_units_used": 8,
+    "num_associate_classes": 95,
+    "singleton_classes": 48,
+    "non_singleton_classes": 47,
+    "largest_class_size": 8
+  },
+  "classes": [
+    {
+      "class_id": 1,
+      "representative": "1",
+      "class_size": 8,
+      "elements": [
+        "1",
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16",
+        "1/32",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "class_id": 2,
+      "representative": "3",
+      "class_size": 6,
+      "elements": [
+        "3",
+        "3/2",
+        "3/4",
+        "3/8",
+        "3/16",
+        "3/32"
+      ]
+    },
+    {
+      "class_id": 3,
+      "representative": "5",
+      "class_size": 6,
+      "elements": [
+        "5",
+        "5/2",
+        "5/4",
+        "5/8",
+        "5/16",
+        "5/32"
+      ]
+    },
+    {
+      "class_id": 4,
+      "representative": "7/2",
+      "class_size": 5,
+      "elements": [
+        "7/2",
+        "7/4",
+        "7/8",
+        "7/16",
+        "7/32"
+      ]
+    },
+    {
+      "class_id": 5,
+      "representative": "9/2",
+      "class_size": 5,
+      "elements": [
+        "9/2",
+        "9/4",
+        "9/8",
+        "9/16",
+        "9/32"
+      ]
+    },
+    {
+      "class_id": 6,
+      "representative": "11/2",
+      "class_size": 5,
+      "elements": [
+        "11/2",
+        "11/4",
+        "11/8",
+        "11/16",
+        "11/32"
+      ]
+    },
+    {
+      "class_id": 7,
+      "representative": "13/4",
+      "class_size": 4,
+      "elements": [
+        "13/4",
+        "13/8",
+        "13/16",
+        "13/32"
+      ]
+    },
+    {
+      "class_id": 8,
+      "representative": "15/4",
+      "class_size": 4,
+      "elements": [
+        "15/4",
+        "15/8",
+        "15/16",
+        "15/32"
+      ]
+    },
+    {
+      "class_id": 9,
+      "representative": "17/4",
+      "class_size": 4,
+      "elements": [
+        "17/4",
+        "17/8",
+        "17/16",
+        "17/32"
+      ]
+    },
+    {
+      "class_id": 10,
+      "representative": "19/4",
+      "class_size": 4,
+      "elements": [
+        "19/4",
+        "19/8",
+        "19/16",
+        "19/32"
+      ]
+    },
+    {
+      "class_id": 11,
+      "representative": "21/4",
+      "class_size": 4,
+      "elements": [
+        "21/4",
+        "21/8",
+        "21/16",
+        "21/32"
+      ]
+    },
+    {
+      "class_id": 12,
+      "representative": "23/4",
+      "class_size": 4,
+      "elements": [
+        "23/4",
+        "23/8",
+        "23/16",
+        "23/32"
+      ]
+    },
+    {
+      "class_id": 13,
+      "representative": "25/8",
+      "class_size": 3,
+      "elements": [
+        "25/8",
+        "25/16",
+        "25/32"
+      ]
+    },
+    {
+      "class_id": 14,
+      "representative": "27/8",
+      "class_size": 3,
+      "elements": [
+        "27/8",
+        "27/16",
+        "27/32"
+      ]
+    },
+    {
+      "class_id": 15,
+      "representative": "29/8",
+      "class_size": 3,
+      "elements": [
+        "29/8",
+        "29/16",
+        "29/32"
+      ]
+    },
+    {
+      "class_id": 16,
+      "representative": "31/8",
+      "class_size": 3,
+      "elements": [
+        "31/8",
+        "31/16",
+        "31/32"
+      ]
+    },
+    {
+      "class_id": 17,
+      "representative": "33/8",
+      "class_size": 3,
+      "elements": [
+        "33/8",
+        "33/16",
+        "33/32"
+      ]
+    },
+    {
+      "class_id": 18,
+      "representative": "35/8",
+      "class_size": 3,
+      "elements": [
+        "35/8",
+        "35/16",
+        "35/32"
+      ]
+    },
+    {
+      "class_id": 19,
+      "representative": "37/8",
+      "class_size": 3,
+      "elements": [
+        "37/8",
+        "37/16",
+        "37/32"
+      ]
+    },
+    {
+      "class_id": 20,
+      "representative": "39/8",
+      "class_size": 3,
+      "elements": [
+        "39/8",
+        "39/16",
+        "39/32"
+      ]
+    },
+    {
+      "class_id": 21,
+      "representative": "41/8",
+      "class_size": 3,
+      "elements": [
+        "41/8",
+        "41/16",
+        "41/32"
+      ]
+    },
+    {
+      "class_id": 22,
+      "representative": "43/8",
+      "class_size": 3,
+      "elements": [
+        "43/8",
+        "43/16",
+        "43/32"
+      ]
+    },
+    {
+      "class_id": 23,
+      "representative": "45/8",
+      "class_size": 3,
+      "elements": [
+        "45/8",
+        "45/16",
+        "45/32"
+      ]
+    },
+    {
+      "class_id": 24,
+      "representative": "47/8",
+      "class_size": 3,
+      "elements": [
+        "47/8",
+        "47/16",
+        "47/32"
+      ]
+    },
+    {
+      "class_id": 25,
+      "representative": "49/16",
+      "class_size": 2,
+      "elements": [
+        "49/16",
+        "49/32"
+      ]
+    },
+    {
+      "class_id": 26,
+      "representative": "51/16",
+      "class_size": 2,
+      "elements": [
+        "51/16",
+        "51/32"
+      ]
+    },
+    {
+      "class_id": 27,
+      "representative": "53/16",
+      "class_size": 2,
+      "elements": [
+        "53/16",
+        "53/32"
+      ]
+    },
+    {
+      "class_id": 28,
+      "representative": "55/16",
+      "class_size": 2,
+      "elements": [
+        "55/16",
+        "55/32"
+      ]
+    },
+    {
+      "class_id": 29,
+      "representative": "57/16",
+      "class_size": 2,
+      "elements": [
+        "57/16",
+        "57/32"
+      ]
+    },
+    {
+      "class_id": 30,
+      "representative": "59/16",
+      "class_size": 2,
+      "elements": [
+        "59/16",
+        "59/32"
+      ]
+    },
+    {
+      "class_id": 31,
+      "representative": "61/16",
+      "class_size": 2,
+      "elements": [
+        "61/16",
+        "61/32"
+      ]
+    },
+    {
+      "class_id": 32,
+      "representative": "63/16",
+      "class_size": 2,
+      "elements": [
+        "63/16",
+        "63/32"
+      ]
+    },
+    {
+      "class_id": 33,
+      "representative": "65/16",
+      "class_size": 2,
+      "elements": [
+        "65/16",
+        "65/32"
+      ]
+    },
+    {
+      "class_id": 34,
+      "representative": "67/16",
+      "class_size": 2,
+      "elements": [
+        "67/16",
+        "67/32"
+      ]
+    },
+    {
+      "class_id": 35,
+      "representative": "69/16",
+      "class_size": 2,
+      "elements": [
+        "69/16",
+        "69/32"
+      ]
+    },
+    {
+      "class_id": 36,
+      "representative": "71/16",
+      "class_size": 2,
+      "elements": [
+        "71/16",
+        "71/32"
+      ]
+    },
+    {
+      "class_id": 37,
+      "representative": "73/16",
+      "class_size": 2,
+      "elements": [
+        "73/16",
+        "73/32"
+      ]
+    },
+    {
+      "class_id": 38,
+      "representative": "75/16",
+      "class_size": 2,
+      "elements": [
+        "75/16",
+        "75/32"
+      ]
+    },
+    {
+      "class_id": 39,
+      "representative": "77/16",
+      "class_size": 2,
+      "elements": [
+        "77/16",
+        "77/32"
+      ]
+    },
+    {
+      "class_id": 40,
+      "representative": "79/16",
+      "class_size": 2,
+      "elements": [
+        "79/16",
+        "79/32"
+      ]
+    },
+    {
+      "class_id": 41,
+      "representative": "81/16",
+      "class_size": 2,
+      "elements": [
+        "81/16",
+        "81/32"
+      ]
+    },
+    {
+      "class_id": 42,
+      "representative": "83/16",
+      "class_size": 2,
+      "elements": [
+        "83/16",
+        "83/32"
+      ]
+    },
+    {
+      "class_id": 43,
+      "representative": "85/16",
+      "class_size": 2,
+      "elements": [
+        "85/16",
+        "85/32"
+      ]
+    },
+    {
+      "class_id": 44,
+      "representative": "87/16",
+      "class_size": 2,
+      "elements": [
+        "87/16",
+        "87/32"
+      ]
+    },
+    {
+      "class_id": 45,
+      "representative": "89/16",
+      "class_size": 2,
+      "elements": [
+        "89/16",
+        "89/32"
+      ]
+    },
+    {
+      "class_id": 46,
+      "representative": "91/16",
+      "class_size": 2,
+      "elements": [
+        "91/16",
+        "91/32"
+      ]
+    },
+    {
+      "class_id": 47,
+      "representative": "93/16",
+      "class_size": 2,
+      "elements": [
+        "93/16",
+        "93/32"
+      ]
+    },
+    {
+      "class_id": 48,
+      "representative": "95/32",
+      "class_size": 1,
+      "elements": [
+        "95/32"
+      ]
+    },
+    {
+      "class_id": 49,
+      "representative": "97/32",
+      "class_size": 1,
+      "elements": [
+        "97/32"
+      ]
+    },
+    {
+      "class_id": 50,
+      "representative": "99/32",
+      "class_size": 1,
+      "elements": [
+        "99/32"
+      ]
+    },
+    {
+      "class_id": 51,
+      "representative": "101/32",
+      "class_size": 1,
+      "elements": [
+        "101/32"
+      ]
+    },
+    {
+      "class_id": 52,
+      "representative": "103/32",
+      "class_size": 1,
+      "elements": [
+        "103/32"
+      ]
+    },
+    {
+      "class_id": 53,
+      "representative": "105/32",
+      "class_size": 1,
+      "elements": [
+        "105/32"
+      ]
+    },
+    {
+      "class_id": 54,
+      "representative": "107/32",
+      "class_size": 1,
+      "elements": [
+        "107/32"
+      ]
+    },
+    {
+      "class_id": 55,
+      "representative": "109/32",
+      "class_size": 1,
+      "elements": [
+        "109/32"
+      ]
+    },
+    {
+      "class_id": 56,
+      "representative": "111/32",
+      "class_size": 1,
+      "elements": [
+        "111/32"
+      ]
+    },
+    {
+      "class_id": 57,
+      "representative": "113/32",
+      "class_size": 1,
+      "elements": [
+        "113/32"
+      ]
+    },
+    {
+      "class_id": 58,
+      "representative": "115/32",
+      "class_size": 1,
+      "elements": [
+        "115/32"
+      ]
+    },
+    {
+      "class_id": 59,
+      "representative": "117/32",
+      "class_size": 1,
+      "elements": [
+        "117/32"
+      ]
+    },
+    {
+      "class_id": 60,
+      "representative": "119/32",
+      "class_size": 1,
+      "elements": [
+        "119/32"
+      ]
+    },
+    {
+      "class_id": 61,
+      "representative": "121/32",
+      "class_size": 1,
+      "elements": [
+        "121/32"
+      ]
+    },
+    {
+      "class_id": 62,
+      "representative": "123/32",
+      "class_size": 1,
+      "elements": [
+        "123/32"
+      ]
+    },
+    {
+      "class_id": 63,
+      "representative": "125/32",
+      "class_size": 1,
+      "elements": [
+        "125/32"
+      ]
+    },
+    {
+      "class_id": 64,
+      "representative": "127/32",
+      "class_size": 1,
+      "elements": [
+        "127/32"
+      ]
+    },
+    {
+      "class_id": 65,
+      "representative": "129/32",
+      "class_size": 1,
+      "elements": [
+        "129/32"
+      ]
+    },
+    {
+      "class_id": 66,
+      "representative": "131/32",
+      "class_size": 1,
+      "elements": [
+        "131/32"
+      ]
+    },
+    {
+      "class_id": 67,
+      "representative": "133/32",
+      "class_size": 1,
+      "elements": [
+        "133/32"
+      ]
+    },
+    {
+      "class_id": 68,
+      "representative": "135/32",
+      "class_size": 1,
+      "elements": [
+        "135/32"
+      ]
+    },
+    {
+      "class_id": 69,
+      "representative": "137/32",
+      "class_size": 1,
+      "elements": [
+        "137/32"
+      ]
+    },
+    {
+      "class_id": 70,
+      "representative": "139/32",
+      "class_size": 1,
+      "elements": [
+        "139/32"
+      ]
+    },
+    {
+      "class_id": 71,
+      "representative": "141/32",
+      "class_size": 1,
+      "elements": [
+        "141/32"
+      ]
+    },
+    {
+      "class_id": 72,
+      "representative": "143/32",
+      "class_size": 1,
+      "elements": [
+        "143/32"
+      ]
+    },
+    {
+      "class_id": 73,
+      "representative": "145/32",
+      "class_size": 1,
+      "elements": [
+        "145/32"
+      ]
+    },
+    {
+      "class_id": 74,
+      "representative": "147/32",
+      "class_size": 1,
+      "elements": [
+        "147/32"
+      ]
+    },
+    {
+      "class_id": 75,
+      "representative": "149/32",
+      "class_size": 1,
+      "elements": [
+        "149/32"
+      ]
+    },
+    {
+      "class_id": 76,
+      "representative": "151/32",
+      "class_size": 1,
+      "elements": [
+        "151/32"
+      ]
+    },
+    {
+      "class_id": 77,
+      "representative": "153/32",
+      "class_size": 1,
+      "elements": [
+        "153/32"
+      ]
+    },
+    {
+      "class_id": 78,
+      "representative": "155/32",
+      "class_size": 1,
+      "elements": [
+        "155/32"
+      ]
+    },
+    {
+      "class_id": 79,
+      "representative": "157/32",
+      "class_size": 1,
+      "elements": [
+        "157/32"
+      ]
+    },
+    {
+      "class_id": 80,
+      "representative": "159/32",
+      "class_size": 1,
+      "elements": [
+        "159/32"
+      ]
+    },
+    {
+      "class_id": 81,
+      "representative": "161/32",
+      "class_size": 1,
+      "elements": [
+        "161/32"
+      ]
+    },
+    {
+      "class_id": 82,
+      "representative": "163/32",
+      "class_size": 1,
+      "elements": [
+        "163/32"
+      ]
+    },
+    {
+      "class_id": 83,
+      "representative": "165/32",
+      "class_size": 1,
+      "elements": [
+        "165/32"
+      ]
+    },
+    {
+      "class_id": 84,
+      "representative": "167/32",
+      "class_size": 1,
+      "elements": [
+        "167/32"
+      ]
+    },
+    {
+      "class_id": 85,
+      "representative": "169/32",
+      "class_size": 1,
+      "elements": [
+        "169/32"
+      ]
+    },
+    {
+      "class_id": 86,
+      "representative": "171/32",
+      "class_size": 1,
+      "elements": [
+        "171/32"
+      ]
+    },
+    {
+      "class_id": 87,
+      "representative": "173/32",
+      "class_size": 1,
+      "elements": [
+        "173/32"
+      ]
+    },
+    {
+      "class_id": 88,
+      "representative": "175/32",
+      "class_size": 1,
+      "elements": [
+        "175/32"
+      ]
+    },
+    {
+      "class_id": 89,
+      "representative": "177/32",
+      "class_size": 1,
+      "elements": [
+        "177/32"
+      ]
+    },
+    {
+      "class_id": 90,
+      "representative": "179/32",
+      "class_size": 1,
+      "elements": [
+        "179/32"
+      ]
+    },
+    {
+      "class_id": 91,
+      "representative": "181/32",
+      "class_size": 1,
+      "elements": [
+        "181/32"
+      ]
+    },
+    {
+      "class_id": 92,
+      "representative": "183/32",
+      "class_size": 1,
+      "elements": [
+        "183/32"
+      ]
+    },
+    {
+      "class_id": 93,
+      "representative": "185/32",
+      "class_size": 1,
+      "elements": [
+        "185/32"
+      ]
+    },
+    {
+      "class_id": 94,
+      "representative": "187/32",
+      "class_size": 1,
+      "elements": [
+        "187/32"
+      ]
+    },
+    {
+      "class_id": 95,
+      "representative": "189/32",
+      "class_size": 1,
+      "elements": [
+        "189/32"
+      ]
+    }
+  ]
+}

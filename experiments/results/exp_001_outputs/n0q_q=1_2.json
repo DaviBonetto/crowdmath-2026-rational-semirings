@@ -1,0 +1,117 @@
+{
+  "object": "N0[q]",
+  "parameters": {
+    "q": "1/2",
+    "max_degree": 4,
+    "max_coeff": 3
+  },
+  "summary": {
+    "total_distinct_elements": 94,
+    "total_representations": 1024,
+    "collisions": 90,
+    "max_representations_for_one_element": 16
+  },
+  "warning": "This is a bounded computational sample and does not prove any infinite mathematical property.",
+  "sample_elements": [
+    {
+      "element": "0",
+      "num_representations": 1,
+      "sample_representation": "(0, 0, 0, 0, 0)"
+    },
+    {
+      "element": "1",
+      "num_representations": 9,
+      "sample_representation": "(0, 0, 2, 3, 2)"
+    },
+    {
+      "element": "1/2",
+      "num_representations": 5,
+      "sample_representation": "(0, 0, 0, 3, 2)"
+    },
+    {
+      "element": "1/4",
+      "num_representations": 3,
+      "sample_representation": "(0, 0, 0, 1, 2)"
+    },
+    {
+      "element": "1/8",
+      "num_representations": 2,
+      "sample_representation": "(0, 0, 0, 0, 2)"
+    },
+    {
+      "element": "1/16",
+      "num_representations": 1,
+      "sample_representation": "(0, 0, 0, 0, 1)"
+    },
+    {
+      "element": "2",
+      "num_representations": 16,
+      "sample_representation": "(0, 2, 2, 3, 2)"
+    },
+    {
+      "element": "3",
+      "num_representations": 16,
+      "sample_representation": "(1, 2, 2, 3, 2)"
+    },
+    {
+      "element": "3/2",
+      "num_representations": 13,
+      "sample_representation": "(0, 1, 2, 3, 2)"
+    },
+    {
+      "element": "3/4",
+      "num_representations": 7,
+      "sample_representation": "(0, 0, 1, 3, 2)"
+    },
+    {
+      "element": "3/8",
+      "num_representations": 4,
+      "sample_representation": "(0, 0, 0, 2, 2)"
+    },
+    {
+      "element": "3/16",
+      "num_representations": 2,
+      "sample_representation": "(0, 0, 0, 0, 3)"
+    },
+    {
+      "element": "4",
+      "num_representations": 15,
+      "sample_representation": "(2, 2, 2, 3, 2)"
+    },
+    {
+      "element": "5",
+      "num_representations": 7,
+      "sample_representation": "(3, 2, 2, 3, 2)"
+    },
+    {
+      "element": "5/2",
+      "num_representations": 16,
+      "sample_representation": "(0, 3, 2, 3, 2)"
+    },
+    {
+      "element": "5/4",
+      "num_representations": 11,
+      "sample_representation": "(0, 0, 3, 3, 2)"
+    },
+    {
+      "element": "5/8",
+      "num_representations": 6,
+      "sample_representation": "(0, 0, 1, 2, 2)"
+    },
+    {
+      "element": "5/16",
+      "num_representations": 3,
+      "sample_representation": "(0, 0, 0, 1, 3)"
+    },
+    {
+      "element": "7/2",
+      "num_representations": 16,
+      "sample_representation": "(1, 3, 2, 3, 2)"
+    },
+    {
+      "element": "7/4",
+      "num_representations": 15,
+      "sample_representation": "(0, 1, 3, 3, 2)"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+q,target,target_decimal_approx,candidate_atomic_divisor_count,associate_class_count,sample_divisors,sample_quotients,notes
+5/3,7448/243,30.65020576,4,4,8/3; 49/9; 152/27; 931/81,931/81; 152/27; 49/9; 8/3,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.
+5/3,6,6.00000000,2,2,2; 3,3; 2,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.
+5/3,10/3,3.33333333,2,2,2; 5/3,5/3; 2,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.
+5/3,16/3,5.33333333,2,2,2; 8/3,8/3; 2,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.
+5/3,5,5.00000000,2,2,3; 5/3,5/3; 3,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.
+5/3,21,21.00000000,2,2,3; 7,7; 3,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.
+5/3,8,8.00000000,2,2,3; 8/3,8/3; 3,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.
+5/3,25/9,2.77777778,1,1,5/3,5/3,This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.

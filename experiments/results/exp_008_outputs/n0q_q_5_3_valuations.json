@@ -1,0 +1,209 @@
+{
+  "object": "N0[q]",
+  "q": "5/3",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "prime_cap": 8
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove the complete valuation structure of the infinite monoid.",
+  "selected_primes": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19
+  ],
+  "prime_truncation_occurred": true,
+  "summary": {
+    "num_nonzero_elements": 4095,
+    "vector_count": 638,
+    "valuation_ranges": {
+      "2": {
+        "min": 0,
+        "max": 14,
+        "distinct_count": 12
+      },
+      "3": {
+        "min": -5,
+        "max": 2,
+        "distinct_count": 8
+      },
+      "5": {
+        "min": 0,
+        "max": 5,
+        "distinct_count": 6
+      },
+      "7": {
+        "min": 0,
+        "max": 4,
+        "distinct_count": 5
+      },
+      "11": {
+        "min": 0,
+        "max": 3,
+        "distinct_count": 4
+      },
+      "13": {
+        "min": 0,
+        "max": 2,
+        "distinct_count": 3
+      },
+      "17": {
+        "min": 0,
+        "max": 3,
+        "distinct_count": 4
+      },
+      "19": {
+        "min": 0,
+        "max": 3,
+        "distinct_count": 4
+      }
+    }
+  },
+  "sample_rows": [
+    {
+      "element": "1",
+      "numerator": "1",
+      "denominator": "1",
+      "support_primes": "[]",
+      "valuation_vector": "[0, 0, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "2",
+      "numerator": "2",
+      "denominator": "1",
+      "support_primes": "[2]",
+      "valuation_vector": "[1, 0, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "3",
+      "numerator": "3",
+      "denominator": "1",
+      "support_primes": "[3]",
+      "valuation_vector": "[0, 1, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "5",
+      "numerator": "5",
+      "denominator": "1",
+      "support_primes": "[5]",
+      "valuation_vector": "[0, 0, 1, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "5/3",
+      "numerator": "5",
+      "denominator": "3",
+      "support_primes": "[3, 5]",
+      "valuation_vector": "[0, -1, 1, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "6",
+      "numerator": "6",
+      "denominator": "1",
+      "support_primes": "[2, 3]",
+      "valuation_vector": "[1, 1, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "7",
+      "numerator": "7",
+      "denominator": "1",
+      "support_primes": "[7]",
+      "valuation_vector": "[0, 0, 0, 1, 0, 0, 0, 0]"
+    },
+    {
+      "element": "8",
+      "numerator": "8",
+      "denominator": "1",
+      "support_primes": "[2]",
+      "valuation_vector": "[3, 0, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "8/3",
+      "numerator": "8",
+      "denominator": "3",
+      "support_primes": "[2, 3]",
+      "valuation_vector": "[3, -1, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "10",
+      "numerator": "10",
+      "denominator": "1",
+      "support_primes": "[2, 5]",
+      "valuation_vector": "[1, 0, 1, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "10/3",
+      "numerator": "10",
+      "denominator": "3",
+      "support_primes": "[2, 3, 5]",
+      "valuation_vector": "[1, -1, 1, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "11",
+      "numerator": "11",
+      "denominator": "1",
+      "support_primes": "[11]",
+      "valuation_vector": "[0, 0, 0, 0, 1, 0, 0, 0]"
+    },
+    {
+      "element": "11/3",
+      "numerator": "11",
+      "denominator": "3",
+      "support_primes": "[3, 11]",
+      "valuation_vector": "[0, -1, 0, 0, 1, 0, 0, 0]"
+    },
+    {
+      "element": "12",
+      "numerator": "12",
+      "denominator": "1",
+      "support_primes": "[2, 3]",
+      "valuation_vector": "[2, 1, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "13",
+      "numerator": "13",
+      "denominator": "1",
+      "support_primes": "[13]",
+      "valuation_vector": "[0, 0, 0, 0, 0, 1, 0, 0]"
+    },
+    {
+      "element": "13/3",
+      "numerator": "13",
+      "denominator": "3",
+      "support_primes": "[3, 13]",
+      "valuation_vector": "[0, -1, 0, 0, 0, 1, 0, 0]"
+    },
+    {
+      "element": "14/3",
+      "numerator": "14",
+      "denominator": "3",
+      "support_primes": "[2, 3, 7]",
+      "valuation_vector": "[1, -1, 0, 1, 0, 0, 0, 0]"
+    },
+    {
+      "element": "16/3",
+      "numerator": "16",
+      "denominator": "3",
+      "support_primes": "[2, 3]",
+      "valuation_vector": "[4, -1, 0, 0, 0, 0, 0, 0]"
+    },
+    {
+      "element": "19/3",
+      "numerator": "19",
+      "denominator": "3",
+      "support_primes": "[3, 19]",
+      "valuation_vector": "[0, -1, 0, 0, 0, 0, 0, 1]"
+    },
+    {
+      "element": "20",
+      "numerator": "20",
+      "denominator": "1",
+      "support_primes": "[2, 5]",
+      "valuation_vector": "[2, 0, 1, 0, 0, 0, 0, 0]"
+    }
+  ]
+}

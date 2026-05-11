@@ -1,0 +1,186 @@
+{
+  "object": "N0[q]^bullet",
+  "q": "3/2",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "max_abs_unit_exponent": 5,
+    "max_targets_per_q": 8
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove the complete atomic divisor structure of the infinite monoid.",
+  "sample_summary": {
+    "nonzero_sample_elements": 1393,
+    "sample_units_used": 1,
+    "candidate_multiplicative_atoms": 373
+  },
+  "targets": [
+    {
+      "target": "665/32",
+      "candidate_atomic_divisors": [
+        "5/2",
+        "19/4",
+        "35/8",
+        "133/16"
+      ],
+      "quotient_witnesses": {
+        "5/2": "133/16",
+        "19/4": "35/8",
+        "35/8": "19/4",
+        "133/16": "5/2"
+      },
+      "associate_classes": [
+        [
+          "5/2"
+        ],
+        [
+          "19/4"
+        ],
+        [
+          "35/8"
+        ],
+        [
+          "133/16"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 4,
+      "associate_class_count": 4
+    },
+    {
+      "target": "4",
+      "candidate_atomic_divisors": [
+        "2"
+      ],
+      "quotient_witnesses": {
+        "2": "2"
+      },
+      "associate_classes": [
+        [
+          "2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 1,
+      "associate_class_count": 1
+    },
+    {
+      "target": "3",
+      "candidate_atomic_divisors": [
+        "2",
+        "3/2"
+      ],
+      "quotient_witnesses": {
+        "2": "3/2",
+        "3/2": "2"
+      },
+      "associate_classes": [
+        [
+          "2"
+        ],
+        [
+          "3/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2
+    },
+    {
+      "target": "5",
+      "candidate_atomic_divisors": [
+        "2",
+        "5/2"
+      ],
+      "quotient_witnesses": {
+        "2": "5/2",
+        "5/2": "2"
+      },
+      "associate_classes": [
+        [
+          "2"
+        ],
+        [
+          "5/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2
+    },
+    {
+      "target": "7",
+      "candidate_atomic_divisors": [
+        "2",
+        "7/2"
+      ],
+      "quotient_witnesses": {
+        "2": "7/2",
+        "7/2": "2"
+      },
+      "associate_classes": [
+        [
+          "2"
+        ],
+        [
+          "7/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2
+    },
+    {
+      "target": "11",
+      "candidate_atomic_divisors": [
+        "2",
+        "11/2"
+      ],
+      "quotient_witnesses": {
+        "2": "11/2",
+        "11/2": "2"
+      },
+      "associate_classes": [
+        [
+          "2"
+        ],
+        [
+          "11/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2
+    },
+    {
+      "target": "9/4",
+      "candidate_atomic_divisors": [
+        "3/2"
+      ],
+      "quotient_witnesses": {
+        "3/2": "3/2"
+      },
+      "associate_classes": [
+        [
+          "3/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 1,
+      "associate_class_count": 1
+    },
+    {
+      "target": "15/4",
+      "candidate_atomic_divisors": [
+        "3/2",
+        "5/2"
+      ],
+      "quotient_witnesses": {
+        "3/2": "5/2",
+        "5/2": "3/2"
+      },
+      "associate_classes": [
+        [
+          "3/2"
+        ],
+        [
+          "5/2"
+        ]
+      ],
+      "candidate_atomic_divisor_count": 2,
+      "associate_class_count": 2
+    }
+  ]
+}

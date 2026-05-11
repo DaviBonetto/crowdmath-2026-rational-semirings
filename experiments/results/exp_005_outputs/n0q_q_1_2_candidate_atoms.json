@@ -1,0 +1,39 @@
+{
+  "object": "N0[q]",
+  "q": "1/2",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove atomicity, unique factorization, IDF behavior, or any infinite mathematical property.",
+  "summary": {
+    "total_distinct_elements": 190,
+    "nonzero_elements": 189,
+    "candidate_atom_count": 1,
+    "decomposable_count": 188,
+    "theoretical_atom_count_within_degree": 0,
+    "true_positive_count": 0,
+    "false_positive_count": 1,
+    "missed_theoretical_atom_count": 0
+  },
+  "candidate_atoms": [
+    "1/32"
+  ],
+  "theoretical_atoms_within_degree": [],
+  "false_positives": [
+    "1/32"
+  ],
+  "missed_theoretical_atoms": [],
+  "sample_decompositions": {
+    "1": "1/32 + 31/32",
+    "1/2": "1/32 + 15/32",
+    "1/4": "1/32 + 7/32",
+    "1/8": "1/32 + 3/32",
+    "1/16": "1/32 + 1/32",
+    "2": "1/32 + 63/32",
+    "3": "1/32 + 95/32",
+    "3/2": "1/32 + 47/32",
+    "3/4": "1/32 + 23/32",
+    "3/8": "1/32 + 11/32"
+  }
+}

@@ -1,0 +1,1535 @@
+{
+  "object": "N0[q]^bullet",
+  "q": "2",
+  "parameters": {
+    "max_degree": 5,
+    "max_coeff": 3,
+    "max_abs_unit_exponent": 5
+  },
+  "bounded_warning": "This is a bounded computational sample. It does not prove the complete associate-class structure of the infinite monoid.",
+  "units_used": [
+    "1"
+  ],
+  "summary": {
+    "total_nonzero_sample_elements": 189,
+    "sample_units_used": 1,
+    "num_associate_classes": 189,
+    "singleton_classes": 189,
+    "non_singleton_classes": 0,
+    "largest_class_size": 1
+  },
+  "classes": [
+    {
+      "class_id": 1,
+      "representative": "1",
+      "class_size": 1,
+      "elements": [
+        "1"
+      ]
+    },
+    {
+      "class_id": 2,
+      "representative": "2",
+      "class_size": 1,
+      "elements": [
+        "2"
+      ]
+    },
+    {
+      "class_id": 3,
+      "representative": "3",
+      "class_size": 1,
+      "elements": [
+        "3"
+      ]
+    },
+    {
+      "class_id": 4,
+      "representative": "4",
+      "class_size": 1,
+      "elements": [
+        "4"
+      ]
+    },
+    {
+      "class_id": 5,
+      "representative": "5",
+      "class_size": 1,
+      "elements": [
+        "5"
+      ]
+    },
+    {
+      "class_id": 6,
+      "representative": "6",
+      "class_size": 1,
+      "elements": [
+        "6"
+      ]
+    },
+    {
+      "class_id": 7,
+      "representative": "7",
+      "class_size": 1,
+      "elements": [
+        "7"
+      ]
+    },
+    {
+      "class_id": 8,
+      "representative": "8",
+      "class_size": 1,
+      "elements": [
+        "8"
+      ]
+    },
+    {
+      "class_id": 9,
+      "representative": "9",
+      "class_size": 1,
+      "elements": [
+        "9"
+      ]
+    },
+    {
+      "class_id": 10,
+      "representative": "10",
+      "class_size": 1,
+      "elements": [
+        "10"
+      ]
+    },
+    {
+      "class_id": 11,
+      "representative": "11",
+      "class_size": 1,
+      "elements": [
+        "11"
+      ]
+    },
+    {
+      "class_id": 12,
+      "representative": "12",
+      "class_size": 1,
+      "elements": [
+        "12"
+      ]
+    },
+    {
+      "class_id": 13,
+      "representative": "13",
+      "class_size": 1,
+      "elements": [
+        "13"
+      ]
+    },
+    {
+      "class_id": 14,
+      "representative": "14",
+      "class_size": 1,
+      "elements": [
+        "14"
+      ]
+    },
+    {
+      "class_id": 15,
+      "representative": "15",
+      "class_size": 1,
+      "elements": [
+        "15"
+      ]
+    },
+    {
+      "class_id": 16,
+      "representative": "16",
+      "class_size": 1,
+      "elements": [
+        "16"
+      ]
+    },
+    {
+      "class_id": 17,
+      "representative": "17",
+      "class_size": 1,
+      "elements": [
+        "17"
+      ]
+    },
+    {
+      "class_id": 18,
+      "representative": "18",
+      "class_size": 1,
+      "elements": [
+        "18"
+      ]
+    },
+    {
+      "class_id": 19,
+      "representative": "19",
+      "class_size": 1,
+      "elements": [
+        "19"
+      ]
+    },
+    {
+      "class_id": 20,
+      "representative": "20",
+      "class_size": 1,
+      "elements": [
+        "20"
+      ]
+    },
+    {
+      "class_id": 21,
+      "representative": "21",
+      "class_size": 1,
+      "elements": [
+        "21"
+      ]
+    },
+    {
+      "class_id": 22,
+      "representative": "22",
+      "class_size": 1,
+      "elements": [
+        "22"
+      ]
+    },
+    {
+      "class_id": 23,
+      "representative": "23",
+      "class_size": 1,
+      "elements": [
+        "23"
+      ]
+    },
+    {
+      "class_id": 24,
+      "representative": "24",
+      "class_size": 1,
+      "elements": [
+        "24"
+      ]
+    },
+    {
+      "class_id": 25,
+      "representative": "25",
+      "class_size": 1,
+      "elements": [
+        "25"
+      ]
+    },
+    {
+      "class_id": 26,
+      "representative": "26",
+      "class_size": 1,
+      "elements": [
+        "26"
+      ]
+    },
+    {
+      "class_id": 27,
+      "representative": "27",
+      "class_size": 1,
+      "elements": [
+        "27"
+      ]
+    },
+    {
+      "class_id": 28,
+      "representative": "28",
+      "class_size": 1,
+      "elements": [
+        "28"
+      ]
+    },
+    {
+      "class_id": 29,
+      "representative": "29",
+      "class_size": 1,
+      "elements": [
+        "29"
+      ]
+    },
+    {
+      "class_id": 30,
+      "representative": "30",
+      "class_size": 1,
+      "elements": [
+        "30"
+      ]
+    },
+    {
+      "class_id": 31,
+      "representative": "31",
+      "class_size": 1,
+      "elements": [
+        "31"
+      ]
+    },
+    {
+      "class_id": 32,
+      "representative": "32",
+      "class_size": 1,
+      "elements": [
+        "32"
+      ]
+    },
+    {
+      "class_id": 33,
+      "representative": "33",
+      "class_size": 1,
+      "elements": [
+        "33"
+      ]
+    },
+    {
+      "class_id": 34,
+      "representative": "34",
+      "class_size": 1,
+      "elements": [
+        "34"
+      ]
+    },
+    {
+      "class_id": 35,
+      "representative": "35",
+      "class_size": 1,
+      "elements": [
+        "35"
+      ]
+    },
+    {
+      "class_id": 36,
+      "representative": "36",
+      "class_size": 1,
+      "elements": [
+        "36"
+      ]
+    },
+    {
+      "class_id": 37,
+      "representative": "37",
+      "class_size": 1,
+      "elements": [
+        "37"
+      ]
+    },
+    {
+      "class_id": 38,
+      "representative": "38",
+      "class_size": 1,
+      "elements": [
+        "38"
+      ]
+    },
+    {
+      "class_id": 39,
+      "representative": "39",
+      "class_size": 1,
+      "elements": [
+        "39"
+      ]
+    },
+    {
+      "class_id": 40,
+      "representative": "40",
+      "class_size": 1,
+      "elements": [
+        "40"
+      ]
+    },
+    {
+      "class_id": 41,
+      "representative": "41",
+      "class_size": 1,
+      "elements": [
+        "41"
+      ]
+    },
+    {
+      "class_id": 42,
+      "representative": "42",
+      "class_size": 1,
+      "elements": [
+        "42"
+      ]
+    },
+    {
+      "class_id": 43,
+      "representative": "43",
+      "class_size": 1,
+      "elements": [
+        "43"
+      ]
+    },
+    {
+      "class_id": 44,
+      "representative": "44",
+      "class_size": 1,
+      "elements": [
+        "44"
+      ]
+    },
+    {
+      "class_id": 45,
+      "representative": "45",
+      "class_size": 1,
+      "elements": [
+        "45"
+      ]
+    },
+    {
+      "class_id": 46,
+      "representative": "46",
+      "class_size": 1,
+      "elements": [
+        "46"
+      ]
+    },
+    {
+      "class_id": 47,
+      "representative": "47",
+      "class_size": 1,
+      "elements": [
+        "47"
+      ]
+    },
+    {
+      "class_id": 48,
+      "representative": "48",
+      "class_size": 1,
+      "elements": [
+        "48"
+      ]
+    },
+    {
+      "class_id": 49,
+      "representative": "49",
+      "class_size": 1,
+      "elements": [
+        "49"
+      ]
+    },
+    {
+      "class_id": 50,
+      "representative": "50",
+      "class_size": 1,
+      "elements": [
+        "50"
+      ]
+    },
+    {
+      "class_id": 51,
+      "representative": "51",
+      "class_size": 1,
+      "elements": [
+        "51"
+      ]
+    },
+    {
+      "class_id": 52,
+      "representative": "52",
+      "class_size": 1,
+      "elements": [
+        "52"
+      ]
+    },
+    {
+      "class_id": 53,
+      "representative": "53",
+      "class_size": 1,
+      "elements": [
+        "53"
+      ]
+    },
+    {
+      "class_id": 54,
+      "representative": "54",
+      "class_size": 1,
+      "elements": [
+        "54"
+      ]
+    },
+    {
+      "class_id": 55,
+      "representative": "55",
+      "class_size": 1,
+      "elements": [
+        "55"
+      ]
+    },
+    {
+      "class_id": 56,
+      "representative": "56",
+      "class_size": 1,
+      "elements": [
+        "56"
+      ]
+    },
+    {
+      "class_id": 57,
+      "representative": "57",
+      "class_size": 1,
+      "elements": [
+        "57"
+      ]
+    },
+    {
+      "class_id": 58,
+      "representative": "58",
+      "class_size": 1,
+      "elements": [
+        "58"
+      ]
+    },
+    {
+      "class_id": 59,
+      "representative": "59",
+      "class_size": 1,
+      "elements": [
+        "59"
+      ]
+    },
+    {
+      "class_id": 60,
+      "representative": "60",
+      "class_size": 1,
+      "elements": [
+        "60"
+      ]
+    },
+    {
+      "class_id": 61,
+      "representative": "61",
+      "class_size": 1,
+      "elements": [
+        "61"
+      ]
+    },
+    {
+      "class_id": 62,
+      "representative": "62",
+      "class_size": 1,
+      "elements": [
+        "62"
+      ]
+    },
+    {
+      "class_id": 63,
+      "representative": "63",
+      "class_size": 1,
+      "elements": [
+        "63"
+      ]
+    },
+    {
+      "class_id": 64,
+      "representative": "64",
+      "class_size": 1,
+      "elements": [
+        "64"
+      ]
+    },
+    {
+      "class_id": 65,
+      "representative": "65",
+      "class_size": 1,
+      "elements": [
+        "65"
+      ]
+    },
+    {
+      "class_id": 66,
+      "representative": "66",
+      "class_size": 1,
+      "elements": [
+        "66"
+      ]
+    },
+    {
+      "class_id": 67,
+      "representative": "67",
+      "class_size": 1,
+      "elements": [
+        "67"
+      ]
+    },
+    {
+      "class_id": 68,
+      "representative": "68",
+      "class_size": 1,
+      "elements": [
+        "68"
+      ]
+    },
+    {
+      "class_id": 69,
+      "representative": "69",
+      "class_size": 1,
+      "elements": [
+        "69"
+      ]
+    },
+    {
+      "class_id": 70,
+      "representative": "70",
+      "class_size": 1,
+      "elements": [
+        "70"
+      ]
+    },
+    {
+      "class_id": 71,
+      "representative": "71",
+      "class_size": 1,
+      "elements": [
+        "71"
+      ]
+    },
+    {
+      "class_id": 72,
+      "representative": "72",
+      "class_size": 1,
+      "elements": [
+        "72"
+      ]
+    },
+    {
+      "class_id": 73,
+      "representative": "73",
+      "class_size": 1,
+      "elements": [
+        "73"
+      ]
+    },
+    {
+      "class_id": 74,
+      "representative": "74",
+      "class_size": 1,
+      "elements": [
+        "74"
+      ]
+    },
+    {
+      "class_id": 75,
+      "representative": "75",
+      "class_size": 1,
+      "elements": [
+        "75"
+      ]
+    },
+    {
+      "class_id": 76,
+      "representative": "76",
+      "class_size": 1,
+      "elements": [
+        "76"
+      ]
+    },
+    {
+      "class_id": 77,
+      "representative": "77",
+      "class_size": 1,
+      "elements": [
+        "77"
+      ]
+    },
+    {
+      "class_id": 78,
+      "representative": "78",
+      "class_size": 1,
+      "elements": [
+        "78"
+      ]
+    },
+    {
+      "class_id": 79,
+      "representative": "79",
+      "class_size": 1,
+      "elements": [
+        "79"
+      ]
+    },
+    {
+      "class_id": 80,
+      "representative": "80",
+      "class_size": 1,
+      "elements": [
+        "80"
+      ]
+    },
+    {
+      "class_id": 81,
+      "representative": "81",
+      "class_size": 1,
+      "elements": [
+        "81"
+      ]
+    },
+    {
+      "class_id": 82,
+      "representative": "82",
+      "class_size": 1,
+      "elements": [
+        "82"
+      ]
+    },
+    {
+      "class_id": 83,
+      "representative": "83",
+      "class_size": 1,
+      "elements": [
+        "83"
+      ]
+    },
+    {
+      "class_id": 84,
+      "representative": "84",
+      "class_size": 1,
+      "elements": [
+        "84"
+      ]
+    },
+    {
+      "class_id": 85,
+      "representative": "85",
+      "class_size": 1,
+      "elements": [
+        "85"
+      ]
+    },
+    {
+      "class_id": 86,
+      "representative": "86",
+      "class_size": 1,
+      "elements": [
+        "86"
+      ]
+    },
+    {
+      "class_id": 87,
+      "representative": "87",
+      "class_size": 1,
+      "elements": [
+        "87"
+      ]
+    },
+    {
+      "class_id": 88,
+      "representative": "88",
+      "class_size": 1,
+      "elements": [
+        "88"
+      ]
+    },
+    {
+      "class_id": 89,
+      "representative": "89",
+      "class_size": 1,
+      "elements": [
+        "89"
+      ]
+    },
+    {
+      "class_id": 90,
+      "representative": "90",
+      "class_size": 1,
+      "elements": [
+        "90"
+      ]
+    },
+    {
+      "class_id": 91,
+      "representative": "91",
+      "class_size": 1,
+      "elements": [
+        "91"
+      ]
+    },
+    {
+      "class_id": 92,
+      "representative": "92",
+      "class_size": 1,
+      "elements": [
+        "92"
+      ]
+    },
+    {
+      "class_id": 93,
+      "representative": "93",
+      "class_size": 1,
+      "elements": [
+        "93"
+      ]
+    },
+    {
+      "class_id": 94,
+      "representative": "94",
+      "class_size": 1,
+      "elements": [
+        "94"
+      ]
+    },
+    {
+      "class_id": 95,
+      "representative": "95",
+      "class_size": 1,
+      "elements": [
+        "95"
+      ]
+    },
+    {
+      "class_id": 96,
+      "representative": "96",
+      "class_size": 1,
+      "elements": [
+        "96"
+      ]
+    },
+    {
+      "class_id": 97,
+      "representative": "97",
+      "class_size": 1,
+      "elements": [
+        "97"
+      ]
+    },
+    {
+      "class_id": 98,
+      "representative": "98",
+      "class_size": 1,
+      "elements": [
+        "98"
+      ]
+    },
+    {
+      "class_id": 99,
+      "representative": "99",
+      "class_size": 1,
+      "elements": [
+        "99"
+      ]
+    },
+    {
+      "class_id": 100,
+      "representative": "100",
+      "class_size": 1,
+      "elements": [
+        "100"
+      ]
+    },
+    {
+      "class_id": 101,
+      "representative": "101",
+      "class_size": 1,
+      "elements": [
+        "101"
+      ]
+    },
+    {
+      "class_id": 102,
+      "representative": "102",
+      "class_size": 1,
+      "elements": [
+        "102"
+      ]
+    },
+    {
+      "class_id": 103,
+      "representative": "103",
+      "class_size": 1,
+      "elements": [
+        "103"
+      ]
+    },
+    {
+      "class_id": 104,
+      "representative": "104",
+      "class_size": 1,
+      "elements": [
+        "104"
+      ]
+    },
+    {
+      "class_id": 105,
+      "representative": "105",
+      "class_size": 1,
+      "elements": [
+        "105"
+      ]
+    },
+    {
+      "class_id": 106,
+      "representative": "106",
+      "class_size": 1,
+      "elements": [
+        "106"
+      ]
+    },
+    {
+      "class_id": 107,
+      "representative": "107",
+      "class_size": 1,
+      "elements": [
+        "107"
+      ]
+    },
+    {
+      "class_id": 108,
+      "representative": "108",
+      "class_size": 1,
+      "elements": [
+        "108"
+      ]
+    },
+    {
+      "class_id": 109,
+      "representative": "109",
+      "class_size": 1,
+      "elements": [
+        "109"
+      ]
+    },
+    {
+      "class_id": 110,
+      "representative": "110",
+      "class_size": 1,
+      "elements": [
+        "110"
+      ]
+    },
+    {
+      "class_id": 111,
+      "representative": "111",
+      "class_size": 1,
+      "elements": [
+        "111"
+      ]
+    },
+    {
+      "class_id": 112,
+      "representative": "112",
+      "class_size": 1,
+      "elements": [
+        "112"
+      ]
+    },
+    {
+      "class_id": 113,
+      "representative": "113",
+      "class_size": 1,
+      "elements": [
+        "113"
+      ]
+    },
+    {
+      "class_id": 114,
+      "representative": "114",
+      "class_size": 1,
+      "elements": [
+        "114"
+      ]
+    },
+    {
+      "class_id": 115,
+      "representative": "115",
+      "class_size": 1,
+      "elements": [
+        "115"
+      ]
+    },
+    {
+      "class_id": 116,
+      "representative": "116",
+      "class_size": 1,
+      "elements": [
+        "116"
+      ]
+    },
+    {
+      "class_id": 117,
+      "representative": "117",
+      "class_size": 1,
+      "elements": [
+        "117"
+      ]
+    },
+    {
+      "class_id": 118,
+      "representative": "118",
+      "class_size": 1,
+      "elements": [
+        "118"
+      ]
+    },
+    {
+      "class_id": 119,
+      "representative": "119",
+      "class_size": 1,
+      "elements": [
+        "119"
+      ]
+    },
+    {
+      "class_id": 120,
+      "representative": "120",
+      "class_size": 1,
+      "elements": [
+        "120"
+      ]
+    },
+    {
+      "class_id": 121,
+      "representative": "121",
+      "class_size": 1,
+      "elements": [
+        "121"
+      ]
+    },
+    {
+      "class_id": 122,
+      "representative": "122",
+      "class_size": 1,
+      "elements": [
+        "122"
+      ]
+    },
+    {
+      "class_id": 123,
+      "representative": "123",
+      "class_size": 1,
+      "elements": [
+        "123"
+      ]
+    },
+    {
+      "class_id": 124,
+      "representative": "124",
+      "class_size": 1,
+      "elements": [
+        "124"
+      ]
+    },
+    {
+      "class_id": 125,
+      "representative": "125",
+      "class_size": 1,
+      "elements": [
+        "125"
+      ]
+    },
+    {
+      "class_id": 126,
+      "representative": "126",
+      "class_size": 1,
+      "elements": [
+        "126"
+      ]
+    },
+    {
+      "class_id": 127,
+      "representative": "127",
+      "class_size": 1,
+      "elements": [
+        "127"
+      ]
+    },
+    {
+      "class_id": 128,
+      "representative": "128",
+      "class_size": 1,
+      "elements": [
+        "128"
+      ]
+    },
+    {
+      "class_id": 129,
+      "representative": "129",
+      "class_size": 1,
+      "elements": [
+        "129"
+      ]
+    },
+    {
+      "class_id": 130,
+      "representative": "130",
+      "class_size": 1,
+      "elements": [
+        "130"
+      ]
+    },
+    {
+      "class_id": 131,
+      "representative": "131",
+      "class_size": 1,
+      "elements": [
+        "131"
+      ]
+    },
+    {
+      "class_id": 132,
+      "representative": "132",
+      "class_size": 1,
+      "elements": [
+        "132"
+      ]
+    },
+    {
+      "class_id": 133,
+      "representative": "133",
+      "class_size": 1,
+      "elements": [
+        "133"
+      ]
+    },
+    {
+      "class_id": 134,
+      "representative": "134",
+      "class_size": 1,
+      "elements": [
+        "134"
+      ]
+    },
+    {
+      "class_id": 135,
+      "representative": "135",
+      "class_size": 1,
+      "elements": [
+        "135"
+      ]
+    },
+    {
+      "class_id": 136,
+      "representative": "136",
+      "class_size": 1,
+      "elements": [
+        "136"
+      ]
+    },
+    {
+      "class_id": 137,
+      "representative": "137",
+      "class_size": 1,
+      "elements": [
+        "137"
+      ]
+    },
+    {
+      "class_id": 138,
+      "representative": "138",
+      "class_size": 1,
+      "elements": [
+        "138"
+      ]
+    },
+    {
+      "class_id": 139,
+      "representative": "139",
+      "class_size": 1,
+      "elements": [
+        "139"
+      ]
+    },
+    {
+      "class_id": 140,
+      "representative": "140",
+      "class_size": 1,
+      "elements": [
+        "140"
+      ]
+    },
+    {
+      "class_id": 141,
+      "representative": "141",
+      "class_size": 1,
+      "elements": [
+        "141"
+      ]
+    },
+    {
+      "class_id": 142,
+      "representative": "142",
+      "class_size": 1,
+      "elements": [
+        "142"
+      ]
+    },
+    {
+      "class_id": 143,
+      "representative": "143",
+      "class_size": 1,
+      "elements": [
+        "143"
+      ]
+    },
+    {
+      "class_id": 144,
+      "representative": "144",
+      "class_size": 1,
+      "elements": [
+        "144"
+      ]
+    },
+    {
+      "class_id": 145,
+      "representative": "145",
+      "class_size": 1,
+      "elements": [
+        "145"
+      ]
+    },
+    {
+      "class_id": 146,
+      "representative": "146",
+      "class_size": 1,
+      "elements": [
+        "146"
+      ]
+    },
+    {
+      "class_id": 147,
+      "representative": "147",
+      "class_size": 1,
+      "elements": [
+        "147"
+      ]
+    },
+    {
+      "class_id": 148,
+      "representative": "148",
+      "class_size": 1,
+      "elements": [
+        "148"
+      ]
+    },
+    {
+      "class_id": 149,
+      "representative": "149",
+      "class_size": 1,
+      "elements": [
+        "149"
+      ]
+    },
+    {
+      "class_id": 150,
+      "representative": "150",
+      "class_size": 1,
+      "elements": [
+        "150"
+      ]
+    },
+    {
+      "class_id": 151,
+      "representative": "151",
+      "class_size": 1,
+      "elements": [
+        "151"
+      ]
+    },
+    {
+      "class_id": 152,
+      "representative": "152",
+      "class_size": 1,
+      "elements": [
+        "152"
+      ]
+    },
+    {
+      "class_id": 153,
+      "representative": "153",
+      "class_size": 1,
+      "elements": [
+        "153"
+      ]
+    },
+    {
+      "class_id": 154,
+      "representative": "154",
+      "class_size": 1,
+      "elements": [
+        "154"
+      ]
+    },
+    {
+      "class_id": 155,
+      "representative": "155",
+      "class_size": 1,
+      "elements": [
+        "155"
+      ]
+    },
+    {
+      "class_id": 156,
+      "representative": "156",
+      "class_size": 1,
+      "elements": [
+        "156"
+      ]
+    },
+    {
+      "class_id": 157,
+      "representative": "157",
+      "class_size": 1,
+      "elements": [
+        "157"
+      ]
+    },
+    {
+      "class_id": 158,
+      "representative": "158",
+      "class_size": 1,
+      "elements": [
+        "158"
+      ]
+    },
+    {
+      "class_id": 159,
+      "representative": "159",
+      "class_size": 1,
+      "elements": [
+        "159"
+      ]
+    },
+    {
+      "class_id": 160,
+      "representative": "160",
+      "class_size": 1,
+      "elements": [
+        "160"
+      ]
+    },
+    {
+      "class_id": 161,
+      "representative": "161",
+      "class_size": 1,
+      "elements": [
+        "161"
+      ]
+    },
+    {
+      "class_id": 162,
+      "representative": "162",
+      "class_size": 1,
+      "elements": [
+        "162"
+      ]
+    },
+    {
+      "class_id": 163,
+      "representative": "163",
+      "class_size": 1,
+      "elements": [
+        "163"
+      ]
+    },
+    {
+      "class_id": 164,
+      "representative": "164",
+      "class_size": 1,
+      "elements": [
+        "164"
+      ]
+    },
+    {
+      "class_id": 165,
+      "representative": "165",
+      "class_size": 1,
+      "elements": [
+        "165"
+      ]
+    },
+    {
+      "class_id": 166,
+      "representative": "166",
+      "class_size": 1,
+      "elements": [
+        "166"
+      ]
+    },
+    {
+      "class_id": 167,
+      "representative": "167",
+      "class_size": 1,
+      "elements": [
+        "167"
+      ]
+    },
+    {
+      "class_id": 168,
+      "representative": "168",
+      "class_size": 1,
+      "elements": [
+        "168"
+      ]
+    },
+    {
+      "class_id": 169,
+      "representative": "169",
+      "class_size": 1,
+      "elements": [
+        "169"
+      ]
+    },
+    {
+      "class_id": 170,
+      "representative": "170",
+      "class_size": 1,
+      "elements": [
+        "170"
+      ]
+    },
+    {
+      "class_id": 171,
+      "representative": "171",
+      "class_size": 1,
+      "elements": [
+        "171"
+      ]
+    },
+    {
+      "class_id": 172,
+      "representative": "172",
+      "class_size": 1,
+      "elements": [
+        "172"
+      ]
+    },
+    {
+      "class_id": 173,
+      "representative": "173",
+      "class_size": 1,
+      "elements": [
+        "173"
+      ]
+    },
+    {
+      "class_id": 174,
+      "representative": "174",
+      "class_size": 1,
+      "elements": [
+        "174"
+      ]
+    },
+    {
+      "class_id": 175,
+      "representative": "175",
+      "class_size": 1,
+      "elements": [
+        "175"
+      ]
+    },
+    {
+      "class_id": 176,
+      "representative": "176",
+      "class_size": 1,
+      "elements": [
+        "176"
+      ]
+    },
+    {
+      "class_id": 177,
+      "representative": "177",
+      "class_size": 1,
+      "elements": [
+        "177"
+      ]
+    },
+    {
+      "class_id": 178,
+      "representative": "178",
+      "class_size": 1,
+      "elements": [
+        "178"
+      ]
+    },
+    {
+      "class_id": 179,
+      "representative": "179",
+      "class_size": 1,
+      "elements": [
+        "179"
+      ]
+    },
+    {
+      "class_id": 180,
+      "representative": "180",
+      "class_size": 1,
+      "elements": [
+        "180"
+      ]
+    },
+    {
+      "class_id": 181,
+      "representative": "181",
+      "class_size": 1,
+      "elements": [
+        "181"
+      ]
+    },
+    {
+      "class_id": 182,
+      "representative": "182",
+      "class_size": 1,
+      "elements": [
+        "182"
+      ]
+    },
+    {
+      "class_id": 183,
+      "representative": "183",
+      "class_size": 1,
+      "elements": [
+        "183"
+      ]
+    },
+    {
+      "class_id": 184,
+      "representative": "184",
+      "class_size": 1,
+      "elements": [
+        "184"
+      ]
+    },
+    {
+      "class_id": 185,
+      "representative": "185",
+      "class_size": 1,
+      "elements": [
+        "185"
+      ]
+    },
+    {
+      "class_id": 186,
+      "representative": "186",
+      "class_size": 1,
+      "elements": [
+        "186"
+      ]
+    },
+    {
+      "class_id": 187,
+      "representative": "187",
+      "class_size": 1,
+      "elements": [
+        "187"
+      ]
+    },
+    {
+      "class_id": 188,
+      "representative": "188",
+      "class_size": 1,
+      "elements": [
+        "188"
+      ]
+    },
+    {
+      "class_id": 189,
+      "representative": "189",
+      "class_size": 1,
+      "elements": [
+        "189"
+      ]
+    }
+  ]
+}

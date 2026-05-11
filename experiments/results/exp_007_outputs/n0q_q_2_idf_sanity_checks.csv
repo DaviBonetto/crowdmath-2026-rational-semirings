@@ -1,0 +1,9 @@
+q,target,raw_candidate_atomic_divisor_count,associate_class_count,raw_vs_associate_gap,largest_associate_class_size,visible_idf_check_passed,interpretation
+2,4,1,1,0,1,yes,integer baseline
+2,6,2,2,0,1,yes,integer baseline
+2,10,2,2,0,1,yes,integer baseline
+2,14,2,2,0,1,yes,integer baseline
+2,22,2,2,0,1,yes,integer baseline
+2,9,1,1,0,1,yes,integer baseline
+2,15,2,2,0,1,yes,integer baseline
+2,21,2,2,0,1,yes,integer baseline

@@ -1,0 +1,117 @@
+{
+  "object": "N0[q]",
+  "parameters": {
+    "q": "3/2",
+    "max_degree": 4,
+    "max_coeff": 3
+  },
+  "summary": {
+    "total_distinct_elements": 454,
+    "total_representations": 1024,
+    "collisions": 262,
+    "max_representations_for_one_element": 8
+  },
+  "warning": "This is a bounded computational sample and does not prove any infinite mathematical property.",
+  "sample_elements": [
+    {
+      "element": "0",
+      "num_representations": 1,
+      "sample_representation": "(0, 0, 0, 0, 0)"
+    },
+    {
+      "element": "1",
+      "num_representations": 1,
+      "sample_representation": "(1, 0, 0, 0, 0)"
+    },
+    {
+      "element": "2",
+      "num_representations": 1,
+      "sample_representation": "(2, 0, 0, 0, 0)"
+    },
+    {
+      "element": "3",
+      "num_representations": 2,
+      "sample_representation": "(0, 2, 0, 0, 0)"
+    },
+    {
+      "element": "3/2",
+      "num_representations": 1,
+      "sample_representation": "(0, 1, 0, 0, 0)"
+    },
+    {
+      "element": "4",
+      "num_representations": 1,
+      "sample_representation": "(1, 2, 0, 0, 0)"
+    },
+    {
+      "element": "5",
+      "num_representations": 1,
+      "sample_representation": "(2, 2, 0, 0, 0)"
+    },
+    {
+      "element": "5/2",
+      "num_representations": 1,
+      "sample_representation": "(1, 1, 0, 0, 0)"
+    },
+    {
+      "element": "6",
+      "num_representations": 2,
+      "sample_representation": "(0, 1, 2, 0, 0)"
+    },
+    {
+      "element": "7",
+      "num_representations": 1,
+      "sample_representation": "(1, 1, 2, 0, 0)"
+    },
+    {
+      "element": "7/2",
+      "num_representations": 1,
+      "sample_representation": "(2, 1, 0, 0, 0)"
+    },
+    {
+      "element": "8",
+      "num_representations": 1,
+      "sample_representation": "(2, 1, 2, 0, 0)"
+    },
+    {
+      "element": "9",
+      "num_representations": 3,
+      "sample_representation": "(0, 0, 1, 2, 0)"
+    },
+    {
+      "element": "9/2",
+      "num_representations": 3,
+      "sample_representation": "(0, 0, 2, 0, 0)"
+    },
+    {
+      "element": "9/4",
+      "num_representations": 1,
+      "sample_representation": "(0, 0, 1, 0, 0)"
+    },
+    {
+      "element": "10",
+      "num_representations": 2,
+      "sample_representation": "(1, 0, 1, 2, 0)"
+    },
+    {
+      "element": "11",
+      "num_representations": 2,
+      "sample_representation": "(2, 0, 1, 2, 0)"
+    },
+    {
+      "element": "11/2",
+      "num_representations": 2,
+      "sample_representation": "(1, 0, 2, 0, 0)"
+    },
+    {
+      "element": "12",
+      "num_representations": 3,
+      "sample_representation": "(0, 2, 1, 2, 0)"
+    },
+    {
+      "element": "13",
+      "num_representations": 1,
+      "sample_representation": "(1, 2, 1, 2, 0)"
+    }
+  ]
+}
