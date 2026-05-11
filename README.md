@@ -41,7 +41,7 @@ Any mistakes, interpretations, or computational limitations in this repository a
 
 The CrowdMath 2026 project studies arithmetic properties of **rational semirings** and their associated **Puiseux monoids**. The central object is
 
-$$\mathbb{N}_0[q] = \left\{ \, a_0 + a_1 q + a_2 q^2 + \cdots + a_n q^n \;\middle|\; n \in \mathbb{N}_0,\; a_i \in \mathbb{N}_0 \right\}$$
+$$\mathbb{N}_0[q] = \Big\lbrace \, a_0 + a_1 q + a_2 q^2 + \cdots + a_n q^n \;\Big|\; n \in \mathbb{N}_0,\; a_i \in \mathbb{N}_0 \Big\rbrace$$
 
 for a fixed rational $q \in \mathbb{Q}_{>0}$. Equipped with addition, $\mathbb{N}_0[q]$ forms a **commutative monoid**; equipped with multiplication, $\mathbb{N}_0[q] \setminus \{0\}$ forms a multiplicative monoid $S_q$.
 
